@@ -1,0 +1,28 @@
+{
+  "name": "captured_by",
+  "version": "1.0.0",
+  "description": "Photography Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarDTech/Captured_by_Victoria.git"
+  },
+  "keywords": [
+    "photography",
+    "photos",
+    "victoria",
+    "insta"
+  ],
+  "author": "Omar Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmarDTech/Captured_by_Victoria/issues"
+  },
+  "homepage": "https://github.com/OmarDTech/Captured_by_Victoria#readme",
+  "dependencies": {
+    "react": "^16.4.1"
+  }
+}
