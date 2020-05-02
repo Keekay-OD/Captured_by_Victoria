@@ -2,7 +2,7 @@
 Photography Portfolio
 
 
-Clean, minimalistic and responsive portfolio theme for a photographer powered by Bootstrap 4 and AJAX.
+Clean, minimalistic and responsive portfolio theme for a photographer powered by Bootstrap 4 and Ajax.
 
 
 ## Live Demo
@@ -17,3 +17,4 @@ https://omardtech.github.io/Captured_by_Victoria/
 - [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
 - [jQuery](https://jquery.com/)
 - [Font Awesome](http://fontawesome.io/)
+- [Ajax](https://api.jquery.com/category/ajax/)
